@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera_Library</string>
+    <string name="set_photo">Set Photo</string>
+    <string name="plus">+</string>
+</resources>
